@@ -3,74 +3,10 @@
     <title>Fletcher Walmsley</title>
     <link href="https://fletcherpwalmsley.github.io/feed.xml" rel="self" />
     <link href="https://fletcherpwalmsley.github.io" />
-    <updated>2020-06-17T16:51:56+12:00</updated>
+    <updated>1970-01-01T12:00:00+12:00</updated>
     <author>
         <name>Fletcher Walmsley</name>
     </author>
     <id>https://fletcherpwalmsley.github.io</id>
 
-    <entry>
-        <title>Update</title>
-        <author>
-            <name>Fletcher Walmsley</name>
-        </author>
-        <link href="https://fletcherpwalmsley.github.io/update/"/>
-        <id>https://fletcherpwalmsley.github.io/update/</id>
-
-        <updated>2020-06-17T16:51:46+12:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Tag testing </title>
-        <author>
-            <name>Fletcher Walmsley</name>
-        </author>
-        <link href="https://fletcherpwalmsley.github.io/tag-testing/"/>
-        <id>https://fletcherpwalmsley.github.io/tag-testing/</id>
-
-        <updated>2020-06-17T16:35:39+12:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Testing</title>
-        <author>
-            <name>Fletcher Walmsley</name>
-        </author>
-        <link href="https://fletcherpwalmsley.github.io/testing/"/>
-        <id>https://fletcherpwalmsley.github.io/testing/</id>
-
-        <updated>2020-06-17T12:09:25+12:00</updated>
-            <summary>
-                <![CDATA[
-                    This is another testing page
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>This is another testing page</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>About Me</title>
-        <author>
-            <name>Fletcher Walmsley</name>
-        </author>
-        <link href="https://fletcherpwalmsley.github.io/about-me/"/>
-        <id>https://fletcherpwalmsley.github.io/about-me/</id>
-
-        <updated>2020-06-17T12:06:59+12:00</updated>
-            <summary>
-                <![CDATA[
-                    [{"id":1555941466744,"type":"publii-paragraph","content":"This site is currently undergoing development&nbsp;","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                [{"id":1555941466744,"type":"publii-paragraph","content":"This site is currently undergoing development&nbsp;","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
-            ]]>
-        </content>
-    </entry>
 </feed>

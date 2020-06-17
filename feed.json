@@ -9,57 +9,5 @@
         "name": "Fletcher Walmsley"
     },
     "items": [
-        {
-            "id": "https://fletcherpwalmsley.github.io/update/",
-            "url": "https://fletcherpwalmsley.github.io/update/",
-            "title": "Update",
-            "author": {
-                "name": "Fletcher Walmsley"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-06-17T16:51:46+12:00",
-            "date_modified": "2020-06-17T16:51:46+12:00"
-        },
-        {
-            "id": "https://fletcherpwalmsley.github.io/tag-testing/",
-            "url": "https://fletcherpwalmsley.github.io/tag-testing/",
-            "title": "Tag testing ",
-            "author": {
-                "name": "Fletcher Walmsley"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-06-17T16:35:39+12:00",
-            "date_modified": "2020-06-17T16:35:39+12:00"
-        },
-        {
-            "id": "https://fletcherpwalmsley.github.io/testing/",
-            "url": "https://fletcherpwalmsley.github.io/testing/",
-            "title": "Testing",
-            "summary": "This is another testing page",
-            "content_html": "<p>This is another testing page</p>",
-            "author": {
-                "name": "Fletcher Walmsley"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-06-17T12:09:25+12:00",
-            "date_modified": "2020-06-17T12:09:25+12:00"
-        },
-        {
-            "id": "https://fletcherpwalmsley.github.io/about-me/",
-            "url": "https://fletcherpwalmsley.github.io/about-me/",
-            "title": "About Me",
-            "summary": "[{\"id\":1555941466744,\"type\":\"publii-paragraph\",\"content\":\"This site is currently undergoing development&nbsp;\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}}]",
-            "content_html": "[{\"id\":1555941466744,\"type\":\"publii-paragraph\",\"content\":\"This site is currently undergoing development&nbsp;\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}}]",
-            "author": {
-                "name": "Fletcher Walmsley"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-06-17T12:06:59+12:00",
-            "date_modified": "2020-06-17T12:06:59+12:00"
-        }
     ]
 }
