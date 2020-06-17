@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Fletcher Walmsley</title>
+    <link href="https://fletcherpwalmsley.github.io/feed.xml" rel="self" />
+    <link href="https://fletcherpwalmsley.github.io" />
+    <updated>1970-01-01T12:00:00+12:00</updated>
+    <author>
+        <name>Fletcher Walmsley</name>
+    </author>
+    <id>https://fletcherpwalmsley.github.io</id>
+
+</feed>
