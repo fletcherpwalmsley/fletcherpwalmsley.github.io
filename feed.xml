@@ -3,19 +3,31 @@
     <title>Fletcher Walmsley</title>
     <link href="https://fletcherpwalmsley.github.io/feed.xml" rel="self" />
     <link href="https://fletcherpwalmsley.github.io" />
-    <updated>2020-06-17T13:03:26+12:00</updated>
+    <updated>2020-06-17T16:46:36+12:00</updated>
     <author>
         <name>Fletcher Walmsley</name>
     </author>
     <id>https://fletcherpwalmsley.github.io</id>
 
     <entry>
+        <title>Tag testing </title>
+        <author>
+            <name>Fletcher Walmsley</name>
+        </author>
+        <link href="https://fletcherpwalmsley.github.io/tag-testing/"/>
+        <id>https://fletcherpwalmsley.github.io/tag-testing/</id>
+
+        <updated>2020-06-17T16:35:39+12:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
         <title>Testing</title>
         <author>
             <name>Fletcher Walmsley</name>
         </author>
-        <link href="https://fletcherpwalmsley.github.io/testing.html"/>
-        <id>https://fletcherpwalmsley.github.io/testing.html</id>
+        <link href="https://fletcherpwalmsley.github.io/testing/"/>
+        <id>https://fletcherpwalmsley.github.io/testing/</id>
 
         <updated>2020-06-17T12:09:25+12:00</updated>
             <summary>
@@ -34,8 +46,8 @@
         <author>
             <name>Fletcher Walmsley</name>
         </author>
-        <link href="https://fletcherpwalmsley.github.io/about-me.html"/>
-        <id>https://fletcherpwalmsley.github.io/about-me.html</id>
+        <link href="https://fletcherpwalmsley.github.io/about-me/"/>
+        <id>https://fletcherpwalmsley.github.io/about-me/</id>
 
         <updated>2020-06-17T12:06:59+12:00</updated>
             <summary>
