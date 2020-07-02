@@ -9,5 +9,18 @@
         "name": "Fletcher Walmsley"
     },
     "items": [
+        {
+            "id": "https://fletcherpwalmsley.github.io/hmnzs-otorohanga/",
+            "url": "https://fletcherpwalmsley.github.io/hmnzs-otorohanga/",
+            "title": "HMNZS Otorohanga v1",
+            "content_html": "<p> </p>\n<p>The HMNZS Otorohanga is an on going project that I began during the 2019/2020 summer. The initial idea for the project began before this however, during Semester 2 of 2019. After completing an intro course into control systems, I had the desire to learn more about them. After watching videos on YouTube about autopilot systems for RC planes, I had the desire to create my own autopilot systems. My initial plan was to create a home made RC plane auto pilot system. However, after a bit of research I decided that this might be biting off more than I could chew for a first attempt. The next idea was to create a land based rover. This time, I determined that this wasn't ambitious enough and would be relatively boring to watch. This is when I settled on creating an autonomous boat. This idea had the benefit of not falling out of the sky if something goes wrong, a lake would provide a large open area giving great GPS signal, and I determined that a boat was likely to be the easiest to built. </p>\n<p>So, at the beginning of January, I placed a large order for electronic components from Alibaba and began planning.</p>\n<p>The first parts that arrived was the GPS module, Bluetooth module and Magnetometer (compass). Figure 1 shows these components on a breadboard and connected to a Arduino Uno. With the left most being the GPS unit, the middle is the Bluetooth Module and the right most is the Magnetometer . </p>\n<figure class=\"post__image post__image--center\" ><img src=\"https://fletcherpwalmsley.github.io/media/posts/6/IMG_20200118_174526-2.jpg\" alt=\"Figure 1: GPS and Magnetometer testing \" width=\"444\" height=\"333\">\n<figcaption >Figure 1: GPS and Magnetometer testing </figcaption>\n</figure>\n<p>With the setup in Figure 1, an Android app made using MIT's App Inventor was used to send GPS coordinates to the Arduino. A screenshot of this App can be seen in Figure 2.</p>\n<figure class=\"post__image post__image--center\" ><img src=\"https://fletcherpwalmsley.github.io/media/posts/6/Seeker_App-2.jpg\" alt=\"\" width=\"212\" height=\"448\">\n<figcaption >Figure 2: Screenshot of the GPS app</figcaption>\n</figure>\n<p>From here, the Ardunio would print out over the serial monitor what heading the user needed to walk in to reach the desired location, along with the current heading the the distance in metres from the location.</p>\n<p>Next, the Ardunio Nano, along with some perf board arrived.</p>",
+            "author": {
+                "name": "Fletcher Walmsley"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-17T21:16:54+12:00",
+            "date_modified": "2020-07-02T20:55:58+12:00"
+        }
     ]
 }
