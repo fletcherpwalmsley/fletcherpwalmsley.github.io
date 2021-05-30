@@ -3,21 +3,52 @@
     <title>Fletcher Walmsley</title>
     <link href="https://fletcherpwalmsley.github.io/feed.xml" rel="self" />
     <link href="https://fletcherpwalmsley.github.io" />
-    <updated>2021-05-04T22:07:37+12:00</updated>
+    <updated>2021-05-30T21:04:11+12:00</updated>
     <author>
         <name>Fletcher Walmsley</name>
     </author>
     <id>https://fletcherpwalmsley.github.io</id>
 
     <entry>
-        <title>The HMNZS Otorohanga v1</title>
+        <title>The Foam Boat That (Almost) Could</title>
+        <author>
+            <name>Fletcher Walmsley</name>
+        </author>
+        <link href="https://fletcherpwalmsley.github.io/the-foam-boat-that-almost-could/"/>
+        <id>https://fletcherpwalmsley.github.io/the-foam-boat-that-almost-could/</id>
+
+        <updated>2021-05-30T21:04:11+12:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello, if you're reading this post after looking at the last one, you might have noticed that this second post has been created almost eleven months later!</p>
+<p>There is a reason for such delay is pretty simple, I have not gotten the boat to the state I have wanted before making another post. The first post was all about the creation an manual driving of the vessel. It documented the build of the hull, an overview of the electrical parts, and the mobile software used to remotely control it. This is to say, I achieved all the goals I had set. After making that post I set what seemed like a reasonable next step, to make it autonomous. In this regard I succeeded, as can be seen in the video below</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/sgallTuI2Vk" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<address class="align-center">Figure 1: GPS and Magnetometer testing </address>
+<p>The above video shows the boat accurately following a small path along the shoreline of Lake Arapuni. This however is the most successful sail the boat has taken to date. I'll discuss the reasons for this at the end. But first, the progress that has been made. </p>
+<p>A lot has changed since the last post, as such, the best way to show the change is with photos. Figure 1A shows the old electrical set-up, with Figure 1B showing the current one.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://fletcherpwalmsley.github.io/media/posts/9/gallery/20200415_180253.jpg" data-size="4032x3024"><img loading="lazy" src="https://fletcherpwalmsley.github.io/media/posts/9/gallery/20200415_180253-thumbnail.jpg" alt="" width="720" height="540"></a>
+<figcaption>Figure 1A: Electrical hardware, as found in last post (the power bank to power the rudder servo is absent in this image)</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://fletcherpwalmsley.github.io/media/posts/9/gallery/v1hull_all_elect.jpg" data-size="1705x959"><img loading="lazy" src="https://fletcherpwalmsley.github.io/media/posts/9/gallery/v1hull_all_elect-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figcaption>Figure 1B: Electrical hardware as it currently stands</figcaption>
+</figure>
+</div></div>
+<p><span style="text-decoration: line-through;">as I will explain later in this post. But first, what progress has been made during this almost one year stint. </span></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The HMNZS Otorohanga - Becoming sea (pond) worthy</title>
         <author>
             <name>Fletcher Walmsley</name>
         </author>
         <link href="https://fletcherpwalmsley.github.io/hmnzs-otorohanga/"/>
         <id>https://fletcherpwalmsley.github.io/hmnzs-otorohanga/</id>
 
-        <updated>2021-05-04T22:07:37+12:00</updated>
+        <updated>2021-05-30T20:03:51+12:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
